@@ -19,14 +19,10 @@ Below is a curation of all of the major projects, programs, collaborations, and 
     *   proj1
     *   proj2
 *   Personal Programming Projects
-    *   proj1
-    *   proj2
+
 *   Engineering R&D
-    *   proj1
-    *   proj2
+
 *   Miscellaneous 
-    *   useful code
-    *   misc
-    *   database dumps
+
 
 * * *
