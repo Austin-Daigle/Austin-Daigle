@@ -13,7 +13,7 @@ Below is a curation of all of the major projects, programs, collaborations, and 
 ## Repo List:
 
 *   High School Projects
-    *   [proj1](https://www.google.com/)
+    *   [Vex Automatic Two-Speed Transmission]([https://www.google.com/](https://github.com/Austin-Daigle/Vex-Automatic-Two-Speed-Transmission))
     *   proj2
 *   College Projects
     *   proj1
