@@ -1,9 +1,32 @@
+* * *
+
 ## Welcome to Austin Daigle's Repository:
 
-I'm a Computer Science student with a interest and passion for algorithm research and development, embedded hardware programming, Robotics, 3D printing, 
-and machine learning models. This repos contains a variety of the projects that I have developed over the yeaars ranging from embedded systesm design to
-standalone application developement. 
+I'm a Computer Science student with an interest and passion for algorithm research and development, embedded hardware programming, Robotics, 3D printing, and machine learning models. This repo contains a variety of projects that I have developed over the years ranging from embedded system design to standalone application development.
+
+  
+
+Below is a curation of all of the major projects, programs, collaborations, and developments going dating back to 2014.
+
+
 
 ## Repo List:
 
+*   High School Projects
+    *   [proj1](https://www.google.com/)
+    *   proj2
+*   College Projects
+    *   proj1
+    *   proj2
+*   Personal Programming Projects
+    *   proj1
+    *   proj2
+*   Engineering R&D
+    *   proj1
+    *   proj2
+*   Miscellaneous 
+    *   useful code
+    *   misc
+    *   database dumps
 
+* * *
