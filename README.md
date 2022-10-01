@@ -10,7 +10,7 @@ Below is a curation of all of the major projects, programs, collaborations, and 
 
 
 
-## Repo List:
+## Repo/Project List:
 
 *   High School Projects
     *   [Vex Automatic Two-Speed Transmission](https://github.com/Austin-Daigle/Vex-Automatic-Two-Speed-Transmission)
