@@ -19,8 +19,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets]()
 *   College Projects
-    *   proj1
-    *   proj2
+
 *   Personal Programming Projects
 
 *   Engineering R&D
