@@ -15,7 +15,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Vex Automatic Two-Speed Transmission](https://github.com/Austin-Daigle/Vex-Automatic-Two-Speed-Transmission)
     *   [Vex Automatic Marble Sorting Robot](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/README.md#demonstration-video)
     *   [Ohm's Law Calculator Application](https://github.com/Austin-Daigle/Ohm-s-Law-Calculator-v1.0)
-    *   [Simple Business simulator Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
+    *   [Simple Business simulatation Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
 *   College Projects
