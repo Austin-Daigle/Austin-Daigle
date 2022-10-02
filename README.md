@@ -19,7 +19,8 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
 *   College Projects
-    *   [MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
+    *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
+    *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
 *   Personal Programming Projects
 
