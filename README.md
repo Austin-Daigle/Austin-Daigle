@@ -12,7 +12,8 @@ Below is a curation of the significant projects, programs, collaborations, and d
 *   High School Projects
     *   [Vex Toggle Button(s) Code](https://github.com/Austin-Daigle/Vex-Toggle-Button-Code/tree/main)
     *   [Vex Automatic Two-Speed Transmission](https://github.com/Austin-Daigle/Vex-Automatic-Two-Speed-Transmission)
-    *   [Vex Automatic Marble Sorting Robot](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/README.md#demonstration-video) 
+    *   [Vex Automatic Marble Sorting Robot](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/README.md#demonstration-video)
+    *   [Ohm's Law Calculator Application](https://github.com/Austin-Daigle/Ohm-s-Law-Calculator-v1.0)
 *   College Projects
     *   proj1
     *   proj2
