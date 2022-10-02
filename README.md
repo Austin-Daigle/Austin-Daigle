@@ -14,7 +14,7 @@ Below is a curation of all of the major projects, programs, collaborations, and 
 
 *   High School Projects
     *   [Vex Automatic Two-Speed Transmission](https://github.com/Austin-Daigle/Vex-Automatic-Two-Speed-Transmission)
-    *   proj2
+    *   [Vex Automatic Marble Sorting Robot](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/README.md#demonstration-video) 
 *   College Projects
     *   proj1
     *   proj2
