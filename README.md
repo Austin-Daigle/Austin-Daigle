@@ -26,6 +26,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Traversal Algorithms: BFS and DFS](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS)
     *   [Iterative Dynamic Array Data Struture](https://github.com/Austin-Daigle/Iterative-Dynamic-Array-Data-Struture)
     *   [Recursively Print Directory Contents](https://github.com/Austin-Daigle/recursively-print-directory-contents)
+    *   [Binary Search Tree Data Struture](https://github.com/Austin-Daigle/Binary-Search-Tree-Data-Struture/blob/main/README.md)
     *   [Custom Double Linked List Data Struture](https://github.com/Austin-Daigle/Custom-Double-Linked-List-Data-Struture/blob/main/README.md)
     *   [Custom Module Priority Heap](https://github.com/Austin-Daigle/Custom-Module-Priority-Heap/blob/main/README.md)
     *   [Command Line eReader simulator](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator)
