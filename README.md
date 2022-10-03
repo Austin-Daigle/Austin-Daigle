@@ -23,7 +23,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
     *   [The Smart Burglar: an application of de Bruijn sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
-    *   [Traversal Algorithms: BFS and DFS](https://github.com/Austin-Daigle/Traversal-Algorithms)
+    *   [Traversal Algorithms: BFS and DFS]([https://github.com/Austin-Daigle/Traversal-Algorithms](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS))
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
 *   Personal Programming Projects
 
