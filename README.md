@@ -29,7 +29,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
 *   Personal Programming Projects
 
 *   Engineering R&D
-
+    *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
 *   Miscellaneous 
 
 
