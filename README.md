@@ -31,6 +31,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Custom Module Priority Heap](https://github.com/Austin-Daigle/Custom-Module-Priority-Heap/blob/main/README.md)
     *   [Command Line eReader simulator](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator)
     *   [Heuristic Searches: 8Queens](https://github.com/Austin-Daigle/8Queens)
+    *   [Tic Tac Toe Game](https://github.com/Austin-Daigle/Tic-Tac-Toe-Game)
     *   [Prolog City Map Node Traversal](https://github.com/Austin-Daigle/Prolog-Node-Traversal/blob/main/README.md)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
