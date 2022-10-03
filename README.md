@@ -37,7 +37,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
 *   Personal Programming Projects
-
+    *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
 *   Engineering R&D
     *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
 
