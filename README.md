@@ -25,6 +25,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [The Smart Burglar: an application of de Bruijn sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
     *   [Traversal Algorithms: BFS and DFS](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS)
     *   [Iterative Dynamic Array Data Struture](https://github.com/Austin-Daigle/Iterative-Dynamic-Array-Data-Struture)
+    *   [Custom Double Linked List Data Struture](https://github.com/Austin-Daigle/Custom-Double-Linked-List-Data-Struture/blob/main/README.md)
     *   [Command Line eReader simulator](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
 *   Personal Programming Projects
