@@ -34,6 +34,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Tic Tac Toe Game](https://github.com/Austin-Daigle/Tic-Tac-Toe-Game)
     *   [TensorFlow: CNN and RNN Examples](https://github.com/Austin-Daigle/TensorFlow-CNN-and-RNN)
     *   [Prolog City Map Node Traversal](https://github.com/Austin-Daigle/Prolog-Node-Traversal/blob/main/README.md)
+    *   [OS Process Scheduling Algorithms](https://github.com/Austin-Daigle/Process-Scheduling-Algorithms)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
 *   Personal Programming Projects
