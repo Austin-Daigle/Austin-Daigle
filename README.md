@@ -22,7 +22,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
 *   College Projects
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
-    *   [The Smart Burglar: an application of de Bruijn sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
+    *   [The Smart Burglar: an Application of De-Bruijn Sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
     *   [Traversal Algorithms: BFS and DFS](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS)
     *   [Iterative Dynamic Array Data Struture](https://github.com/Austin-Daigle/Iterative-Dynamic-Array-Data-Struture)
     *   [Recursively Print Directory Contents](https://github.com/Austin-Daigle/recursively-print-directory-contents)
