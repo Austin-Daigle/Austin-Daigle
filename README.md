@@ -33,6 +33,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Heuristic Searches: 8Queens](https://github.com/Austin-Daigle/8Queens)
     *   [Prolog City Map Node Traversal](https://github.com/Austin-Daigle/Prolog-Node-Traversal/blob/main/README.md)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
+    *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
 *   Personal Programming Projects
 
 *   Engineering R&D
