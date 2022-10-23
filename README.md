@@ -37,6 +37,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [OS Process Scheduling Algorithms](https://github.com/Austin-Daigle/Process-Scheduling-Algorithms)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
+    *   [Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Arithmetic-Parsing-Calculator-Application/blob/main/README.md)
 *   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
