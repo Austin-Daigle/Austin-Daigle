@@ -39,7 +39,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
     *   [Command Line Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Command_Line_Arithmetic-Parsing-Calculator)
     *   [GUI Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Arithmetic-Parsing-Calculator-Application/blob/main/README.md)
-    *   [D3.js resources](https://github.com/Austin-Daigle/firstD3Chart)
+    *   [Police Shootings Statistical Analysis using Python and d3.js](https://github.com/Austin-Daigle/firstD3Chart)
 *   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
