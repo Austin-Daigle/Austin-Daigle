@@ -19,7 +19,6 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Simple Business simulatation Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
-    *   [Google.com Automated Selenium Footer Tests](https://github.com/Austin-Daigle/googleSeleniumFootersTest)
 *   College Projects
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
@@ -41,6 +40,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Command Line Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Command_Line_Arithmetic-Parsing-Calculator)
     *   [GUI Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Arithmetic-Parsing-Calculator-Application/blob/main/README.md)
     *   [Police Shootings Statistical Analysis using Python and d3.js](https://github.com/Austin-Daigle/firstD3Chart)
+    *   [Google.com Automated Selenium Footer Tests](https://github.com/Austin-Daigle/googleSeleniumFootersTest)
 *   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
