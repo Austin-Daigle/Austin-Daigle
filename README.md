@@ -41,6 +41,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [GUI Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Arithmetic-Parsing-Calculator-Application/blob/main/README.md)
     *   [Police Shootings Statistical Analysis using Python and d3.js](https://github.com/Austin-Daigle/firstD3Chart)
     *   [Google.com Automated Selenium Footer Tests](https://github.com/Austin-Daigle/googleSeleniumFootersTest)
+    *   [Dietary Selection and Health Research and Analysis using Tableau/d3.js]()
 *   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
