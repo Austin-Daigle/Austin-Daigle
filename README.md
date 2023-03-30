@@ -42,7 +42,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Police Shootings Statistical Analysis using Python and d3.js](https://github.com/Austin-Daigle/firstD3Chart)
     *   [Google.com Automated Selenium Footer Tests](https://github.com/Austin-Daigle/googleSeleniumFootersTest)
     *   [Dietary Selection and Health Research and Analysis using Tableau/d3.js](https://github.com/Austin-Daigle/DietarySelectionsAndHealthResearch)
-    *   [TweetSeeker: a python-based twitter analytical scapper](https://github.com/Austin-Daigle/TweetSeeker)
+    *   [TweetSeeker: A Python-based Twitter analytical scapping tool](https://github.com/Austin-Daigle/TweetSeeker)
 *   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
