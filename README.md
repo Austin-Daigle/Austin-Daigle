@@ -9,6 +9,8 @@ Below is a curation of the significant projects, programs, collaborations, and d
 
 ## Repo/Project List:
 
+*   Resume
+    *   [Resume](https://github.com/Austin-Daigle/Resume/blob/main/README.md)
 *   High School Projects
     *   [Basic HTML Webpages](https://github.com/Austin-Daigle/Basic-HTML5-Webpages)   
     *   [Vex Toggle Button(s) Code](https://github.com/Austin-Daigle/Vex-Toggle-Button-Code/tree/main)
