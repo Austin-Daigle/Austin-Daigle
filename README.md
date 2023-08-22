@@ -5,7 +5,6 @@ I'm Computer Programmer interested and passionate about algorithm research and d
 
 Below is a curation of the significant projects, programs, collaborations, and developments I have worked on since 2014.
 
-[My Resume](https://github.com/Austin-Daigle/Resume/blob/main/README.md)
 
 ## Repo/Project List:
 
