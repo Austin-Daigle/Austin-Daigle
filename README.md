@@ -9,8 +9,6 @@ Below is a curation of the significant projects, programs, collaborations, and d
 
 ## Repo/Project List:
 
-*   Resume
-    *   [Resume](https://github.com/Austin-Daigle/Resume/blob/main/README.md)
 *   High School Projects
     *   [Basic HTML Webpages](https://github.com/Austin-Daigle/Basic-HTML5-Webpages)   
     *   [Vex Toggle Button(s) Code](https://github.com/Austin-Daigle/Vex-Toggle-Button-Code/tree/main)
@@ -21,7 +19,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Simple Business simulatation Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
-*   College Projects
+*   College & Personal Projects
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
     *   [The Smart Burglar: an Application of De-Bruijn Sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
@@ -46,7 +44,6 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Dietary Selection and Health Research and Analysis using Tableau/d3.js](https://github.com/Austin-Daigle/DietarySelectionsAndHealthResearch)
     *   [TweetSeeker: A Python-based Twitter analytical scapping tool](https://github.com/Austin-Daigle/TweetSeeker)
     *   [CodeCheck 2.0](https://github.com/Austin-Daigle/CodeCheck-2.0-Python-Research)
-*   Personal Programming Projects
     *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
     *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
     *   [YoutubeDL Commander](https://github.com/Austin-Daigle/YoutubeDl-Commander)
