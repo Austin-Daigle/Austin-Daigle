@@ -36,6 +36,9 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [OS Process Scheduling Algorithms](https://github.com/Austin-Daigle/Process-Scheduling-Algorithms)
     *   [LendIT Book Kiosk](https://github.com/dellius-alexander/LendIT_Book_Kiosk)
     *   [LendIT Book Kiosk (Local Project Mirror)](https://github.com/Austin-Daigle/LendIT_Book_Kiosk_Mirror)
+    *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
+    *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
+    *   [YoutubeDL Commander](https://github.com/Austin-Daigle/YoutubeDl-Commander)
     *   [Command Line Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Command_Line_Arithmetic-Parsing-Calculator)
     *   [GUI Arithmetic Parsing Calculator](https://github.com/Austin-Daigle/Arithmetic-Parsing-Calculator-Application/blob/main/README.md)
     *   [Police Shootings Statistical Analysis using Python and d3.js](https://github.com/Austin-Daigle/firstD3Chart)
@@ -43,9 +46,6 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Dietary Selection and Health Research and Analysis using Tableau/d3.js](https://github.com/Austin-Daigle/DietarySelectionsAndHealthResearch)
     *   [TweetSeeker: A Python-based Twitter analytical scapping tool](https://github.com/Austin-Daigle/TweetSeeker)
     *   [CodeCheck 2.0](https://github.com/Austin-Daigle/CodeCheck-2.0-Python-Research)
-    *   [AlTeRnATiNg cAps: Alternating Case Converter](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/README.md)
-    *   [MKVToolNix .Json Output File Autofilter Application](https://github.com/Austin-Daigle/MKVToolNix-Json-Output-File-Autofilter/tree/main)
-    *   [YoutubeDL Commander](https://github.com/Austin-Daigle/YoutubeDl-Commander)
 *   Engineering R&D
     *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
 
