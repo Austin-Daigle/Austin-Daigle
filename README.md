@@ -46,7 +46,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [TweetSeeker: A Python-based Twitter analytical scapping tool](https://github.com/Austin-Daigle/TweetSeeker)
     *   [CodeCheck 2.0](https://github.com/Austin-Daigle/CodeCheck-2.0-Python-Research)
     *   [ChatGPT API in Python](https://github.com/Austin-Daigle/ChatGPTAPI/tree/main)
-*   Graduate Projects
+*   Graduate Personal Projects
     *   [Automated Python File Copying]()
 *   Engineering R&D
     *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
