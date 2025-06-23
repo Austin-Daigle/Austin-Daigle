@@ -18,7 +18,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Simple Business simulatation Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
-*   Undergraduate & Personal Projects
+*   Undergraduate Personal Projects
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
     *   [The Smart Burglar: an Application of De-Bruijn Sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
