@@ -48,6 +48,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [ChatGPT API in Python](https://github.com/Austin-Daigle/ChatGPTAPI/tree/main)
 *   Graduate Personal Projects
     *   [Automated Python File Copying](https://github.com/Austin-Daigle/PythonAutoFileCopyingScript)
+    *   [VimeoGrab Core (CLI)]()
 *   Engineering R&D
     *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
 
