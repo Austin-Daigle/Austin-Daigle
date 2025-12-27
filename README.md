@@ -18,7 +18,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [Simple Business simulatation Application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/README.md)
     *   [Hangman Game](https://github.com/Austin-Daigle/Hangman-Game/blob/main/README.md)
     *   [Java SimpleSheets](https://github.com/Austin-Daigle/Java-SimpleSheet-Application)
-*   Undergraduate Personal Projects
+*   Undergraduate Projects
     *   [Basic MATLAB Scripts](https://github.com/Austin-Daigle/MATLAB-Scripts)
     *   [MATLAB Polynomial scripts](https://github.com/Austin-Daigle/MATLAB-Polynomial-Scripts)
     *   [The Smart Burglar: an Application of De-Bruijn Sequences](https://github.com/Austin-Daigle/The-Smart-Burglar---an-application-of-de-Bruijn-sequences)
@@ -46,7 +46,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [TweetSeeker: A Python-based Twitter analytical scapping tool](https://github.com/Austin-Daigle/TweetSeeker)
     *   [CodeCheck 2.0](https://github.com/Austin-Daigle/CodeCheck-2.0-Python-Research)
     *   [ChatGPT API in Python](https://github.com/Austin-Daigle/ChatGPTAPI/tree/main)
-*   Graduate Personal Projects
+*   Graduate Projects
     *   [Automated Python File Copying](https://github.com/Austin-Daigle/PythonAutoFileCopyingScript)
     *   [VimeoGrab Core (CLI)](https://github.com/Austin-Daigle/VimeoGrabber-CLI-1.0)
     *   [VimeoGrab Application v.1.0 (GUI)](https://github.com/Austin-Daigle/VimeoGrabber-GUI-1.0)
