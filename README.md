@@ -52,6 +52,7 @@ Below is a curation of the significant projects, programs, collaborations, and d
     *   [VimeoGrab Application v.1.0 (GUI)](https://github.com/Austin-Daigle/VimeoGrabber-GUI-1.0)
     *   [Jake Gutierrez Resume Builder (Dev GUI) v.1.0.1](https://github.com/Austin-Daigle/JakeGutierrezResumeBuilder)
     *   [Enhanced Video-to-3D-Gradient Viewer](https://github.com/Austin-Daigle/Enhanced-Video-3D-Gradient-Viewer)
+    *   [Pattern Recognition using 3D Gradients (Restricted R&D)](https://github.com/Austin-Daigle/3DGradientViewerAndPatternMatcher)
 *   Engineering R&D
     *   [Raspberry Pi: Adafruit 1000c PowerBoost Low-Battery Safe Shutdown Script](https://github.com/Austin-Daigle/Raspberry-Pi-PowerBoost-1000c-Safe-Shutdown-Script/blob/main/README.md)
 
