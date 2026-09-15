@@ -1,9 +1,9 @@
 * * *
 
-## Welcome to Austin Daigle's Repository:
-I'm Computer Programmer interested and passionate about algorithm research and development, embedded hardware programming, Robotics, 3D printing, and machine learning models. This repo contains a variety of projects that I have developed over the years ranging from embedded system design to standalone application development.
+## Welcome to my Repository:
+I'm a software engineer and developer currently studying Artificial Intelligence at Georgia Institute of Technology (M.S., in progress), building on a B.S. in Computer Science from Clayton State University. My work spans algorithm design, machine learning, Artificial intelligence, embedded systems, full-stack development, robotics, and 3D printing, with experience ranging from founding a software consultancy to building production-ready AI evaluation pipelines.
 
-Below is a curation of the significant projects, programs, collaborations, and developments I have worked on since 2014.
+This repository showcases a curated set of projects, collaborations, and technical experiments I've developed since 2014, spanning embedded system design, applied machine learning, and standalone application development.
 
 
 ## Repo/Project List:
